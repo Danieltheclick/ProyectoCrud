@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="salir" unicode="&#xe800;" d="M912 614l276-266-276-264v177h-413v176h413v177z m-166-512l106-107q-156-146-338-146-217 0-365 143t-149 359q0 135 68 250t184 182 250 66q184 0 349-148l-105-106q-114 104-243 104-149 0-251-104t-103-254q0-140 106-241t247-101q131 0 244 103z" horiz-adv-x="1188" />
+
+<glyph glyph-name="contratista" unicode="&#xe801;" d="M456 326l0-100-456 0q8 226 10 292 4 108 100 108l160 0q16 26 37 67t23 45q14 26 23 32t37 6l222 0q26 0 36-7t22-31q18-32 60-112l160 0q96 0 100-108l10-292-454 0 0 100-90 0z m-74 354l-28-54 292 0-28 54q-14 26-42 26l-152 0q-28 0-42-26z m164-604l0 100 430 0q-6-88-10-166-6-84-90-84l-750 0q-90 0-90 84l-10 166 430 0 0-100 90 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="empleado" unicode="&#xe802;" d="M0 21l463 463q-25 68-10 145t72 134 133 72 147-10l-162-162 45-117 115-45 164 164q25-70 9-147t-73-133-132-72-148 8l-463-463z m113-2q0-20 14-34t33-13 33 13 14 34-14 33-33 14-33-14-14-33z" horiz-adv-x="982" />
+
+<glyph glyph-name="usuario" unicode="&#xe803;" d="M0-132l0 289q0 103 60 177t157 75l330 0q101-2 158-76t57-176l0-289q0-18-18-18l-105 0q-16 0-16 18l0 252q-6 27-27 24t-22-24l0-252q-2-18-19-18l-352 0q-17 0-17 18l0 252q-4 27-26 24t-23-24l0-252q0-18-18-18l-101 0q-18 0-18 18z m186 783q0 82 59 140t140 59q86-4 142-60t59-139q-2-84-61-143t-140-58q-84 2-142 60t-57 141z" horiz-adv-x="762" />
+</font>
+</defs>
+</svg>

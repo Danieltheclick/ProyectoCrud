@@ -1,0 +1,5 @@
+
+.icon-salir:before { content: '\e800'; } /* '' */
+.icon-contratista:before { content: '\e801'; } /* '' */
+.icon-empleado:before { content: '\e802'; } /* '' */
+.icon-usuario:before { content: '\e803'; } /* '' */
